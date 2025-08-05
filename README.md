@@ -2,10 +2,10 @@
 
 This project focuses on building a text classification system to categorize news articles into the following categories:
 
-- 🌍 World  
-- ⚽ Sports  
-- 💼 Business  
-- 💻 Technology
+- World  
+- Sports  
+- Business  
+- Technology
 
 
 
